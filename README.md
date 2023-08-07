@@ -1,2 +1,2 @@
-# My-Codeforces-Solves
-Trying out some problems in Codeforces
+# My Codeforces Solves
+Tried solving some problems in Codeforces to practice C++.
